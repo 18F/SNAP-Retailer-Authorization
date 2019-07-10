@@ -1,1 +1,1 @@
-# SNAP-Retailer-Authorization
+This is a repo for the 8-week SNAP Retailer Authorization engagement. Read more about the project here: https://github.com/18F/SNAP-Retailer-Authorization/wiki/The-18F-FNS-SNAP-Retailer-Authorization-Engagement 
