@@ -24,7 +24,7 @@ During this phase, 18F will provide FNS with the following:
 
 ## 18F Team Process
 
-- **Stand-ups**: Daily updates 11:30 ET
+- **Stand-ups**: Daily updates (floating) 
 - **Team Sync**: Weekly in hangouts with AM / Meet, 1 hour
 - **Shipping News**: Update document during the week, submit on Fridays. You can
   find all the shipping news documents in the [`shipping-news`
