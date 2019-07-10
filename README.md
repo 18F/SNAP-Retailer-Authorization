@@ -38,7 +38,7 @@ The SNA program’s effectiveness is dependent upon grocers and other retailers 
 
 - Alicia Rouault, Product [@arouault](https://github.com/arouault)
 - Norah Maki, Strategy [@](https://github.com/)
-- Hannah Kane, Account Manager [@](https://github.com/)
+- Hannah Kane, Account Manager [@hannahkane](https://github.com/hannahkane)
 
 ## USDA Partner
 - Ryan 
