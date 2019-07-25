@@ -4,7 +4,7 @@
 
 The USDA's Food and Nutrition Services (FNS) is modernizing an exisitng system (STARS) to improve how retailers become authorized and re-authorize to accept SNAP (Supplemental Nutrition Assistance Program) benefits as payment. By reducing the administrative burden of reapplications, FNS seeks to increase the number of retailers who can deliver public benefits to the 36 million low-income Americans who rely on food assistance. 
 
-This is an 8-week Path Analysis focused on the SNAP Retailer lifecycle, including STARS (Store Tracking and Redemption System), which is the primary form of automated support for SNAP retailer management functions. The task here is to conduct technical and user research to help FNS validate and prioritize a set of process, technical or design improvements to solve user and business problems and help FNS achieve their goals. Following this assessment, 18F will prepare a synthesis of findings as well as preliminary recommendations identifying the next steps towards a potential solution.
+This is an 8-9 week Path Analysis focused on the SNAP Retailer lifecycle, including STARS (Store Tracking and Redemption System), which is the primary form of automated support for SNAP retailer management functions. The task here is to conduct technical and user research to help FNS validate and prioritize a set of process, technical or design improvements to solve user and business problems and help FNS achieve their goals. Following this assessment, 18F will prepare a synthesis of findings as well as preliminary recommendations identifying the next steps towards a potential solution.
 
 During this phase, 18F will provide FNS with the following:
 
@@ -19,11 +19,10 @@ Validated problem statements. The partner has provided a list of problem stateme
 The partner would like for us to help prioritize those problem statements and help them create a viable roadmap. They have indicated their current prioritization is somewhat reactive—it involves looking at level of effort, relative priority, and “rotating” between stakeholder groups. Partner has expressed interest in learning about more rigorous prioritization frameworks that will help them align with organizational strategic plans. 
 
 ## Stakeholder management guidance
-The partner has said they’d like to learn how to “build consensus.” This may be an opportunity to coach them on the role of an empowered product owner who works to understand and prioritize user and business needs, and works to gain buy-in from stakeholders. 
+The partner has said they’d like to “build consensus” across stakeholder groups. This may be an opportunity for coaching on empowered product ownership, working to understand and prioritize user and business needs, and works to gain buy-in from stakeholders. 
 
 ## Path recommendations
-The partner has expressed interest in a follow-on E&I engagement (in fact, the agreement includes an E&I, though funds have not yet been obligated), so recommendations for the next phase of the engagement will be part of the final deliverables.
-The Agency’s strategic plan says that by the end of the year, they will have defined requirements to streamline the retailer lifecycle process. The goal is to have a path forward.
+The partner has expressed interest in a possible follow-on E&I engagement (in fact, the agreement includes an E&I, though funds have not yet been obligated), so recommendations for the next phase of the engagement will be part of the final deliverables. The Agency’s strategic plan says that by the end of the year, they will have defined requirements to streamline the retailer lifecycle process. The goal is to have a path forward.
 
 The project team should develop a project strategy that balances the real and perceived constraints of the partner with known best practices for agile software development.
 
@@ -37,12 +36,14 @@ The SNA program’s effectiveness is dependent upon grocers and other retailers 
 ## 18F Team
 
 - Alicia Rouault, Product [@arouault](https://github.com/arouault)
-- Norah Maki, Strategy [@](https://github.com/)
+- Norah Maki, Strategy [@NorahMaki](https://github.com/NorahMaki)
 - Hannah Kane, Account Manager [@hannahkane](https://github.com/hannahkane)
 
-## USDA Partner
-- Ryan 
-- Nicole 
+## SNAP Partners
+- Ryan Schreiber
+- Nicole Budzius
+- Joshline Gounder
+- Candyce Polite
 
 
 ## 18F Team Details 
@@ -53,12 +54,12 @@ The SNA program’s effectiveness is dependent upon grocers and other retailers 
   find all the shipping news documents in the [`shipping-news`
   directory](./shipping-news).
 - **Tracking work**: [Github Projects](https://github.com/18F/SNAP-Retailer-Authorization/projects) (note that since this is an 8 week engagement, we are breaking up our work into 1 week sprints)
-- **USDA + 18F check ins**: TBD
-- **Slack, 18F + USDA**: TBD
+- **USDA + 18F check ins**: Use Webex 
+- **Slack, 18F + USDA**: #snap-retailer-partner
 - **Retrospectives**: Bi-weekly, monthly with partner
 - **Tock #1110** 18F / FNS SNAP / Retailer Support 
 
-[slack-channel]: https://gsa-tts.slack.com/hs-snap-retailers
+[18F slack-channel]: https://gsa-tts.slack.com/hs-snap-retailers
 
 ## Path Analysis Timeline
 
